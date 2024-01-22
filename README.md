@@ -17,6 +17,7 @@ FruitCatchers is an interactive game developed in Java, where players aim to cat
 
 ## Setup Instructions
 * Clone the repository.
+* The Project is named as PAL.
 * Run the project directly.
 
 

@@ -1,5 +1,5 @@
-# FruitCatchers
-FruitCatchers is an interactive game developed in Java, where players aim to catch falling fruits and pizza slices in baskets and PizzaBox respectively. The game tests players' agility and strategic planning, offering an array of challenges including dynamic obstacles and a scoring system.
+# FoodCatchers
+FoodCatchers is an interactive game developed in Java, where players aim to catch falling fruits and pizza slices in baskets and PizzaBox respectively. The game tests players' agility and strategic planning, offering an array of challenges including dynamic obstacles and a scoring system.
 
 ## Features
 - **Dynamic Components**: Fruits and pizza slices fall from the top of the screen, each with unique animations.
